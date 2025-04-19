@@ -4,7 +4,7 @@
 
 ## 🇩🇪 Deutsch
 
-Ein kleines Sprachassistent-Projekt, inspiriert von Iron Mans J.A.R.V.I.S., mit dem du per Sprache mit deinem lokalen KI-Modell (z. B. über [Ollama](https://ollama.com/)) interagieren kannst. Die Antworten bekommst du in realistischer Sprache über [ElevenLabs](https://www.elevenlabs.io/).
+Ein kleines Sprachassistent-Projekt, inspiriert von Iron Mans J.A.R.V.I.S., mit dem du per Sprache mit deinem lokalen KI-Modell (über [Ollama](https://ollama.com/)) interagieren kannst. Die Antworten bekommst du in realistischer Sprache über [ElevenLabs](https://www.elevenlabs.io/).
 
 > 🛠️ Nicht perfekt – aber definitiv ein cooler Start!
 
@@ -15,7 +15,7 @@ Ein kleines Sprachassistent-Projekt, inspiriert von Iron Mans J.A.R.V.I.S., mit 
 - [Ollama](https://ollama.com/) muss installiert sein. + AI Modell
 - Ein API Key von [ElevenLabs](https://www.elevenlabs.io/) (kostenloser Account reicht).
 - Python 3.10 oder höher empfohlen.
-- Das Standardmodell ist `deepseek-coder:6.7b-instruct`, kann im Code geändert werden.
+- Das Standardmodell ist `deepseek-r1`, kann im Code geändert werden.
 
 ---
 
@@ -68,7 +68,7 @@ You can talk to your local AI model (via [Ollama](https://ollama.com/)), and it 
 - [Ollama](https://ollama.com/) installed + AI Model
 - An API key from [ElevenLabs](https://www.elevenlabs.io/)
 - Python 3.10 or newer recommended
-- Default model is `deepseek-coder:6.7b-instruct` (you can change it in the code)
+- Default model is `deepseek-r1` (you can change it in the code)
 
 ---
 
